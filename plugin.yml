@@ -1,0 +1,9 @@
+name: MajorasMask
+version: 1.0
+author: SkyHash
+description: Custom Masks Plugin.
+main: com.github.marcomodder.Main
+
+commands:
+  heads:
+    usage: /<command>
